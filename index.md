@@ -5,14 +5,15 @@ title: Home
 
 # Hi, I'm Charlie
 
-I build things, learn fast, and document my work.
+I'm a physics major student who is also interested in computer science.
+Just starting animating & illustrating from scratch.
 
 ## Recent work
-- Product design and development
-- Front-end engineering
-- Personal projects and experiments
+
+- Analytical Mechanics(Tong and Landau)
+- Drawabox
 
 ## Connect
+
 - [GitHub](https://github.com/CharlieZchan)
-- [LinkedIn](https://www.linkedin.com)
-- [Email](mailto:your-email@example.com)
+- [X](https://x.com/charlie_z_chan)
