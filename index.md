@@ -17,3 +17,4 @@ Just starting animating & illustrating from scratch.
 
 - [GitHub](https://github.com/CharlieZchan)
 - [X](https://x.com/charlie_z_chan)
+- [E-mail](charliezchan@outlook.com)
