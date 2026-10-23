@@ -12,7 +12,11 @@
 
 The website is a total documentary of my learning path. I wish it will be a good starting point.
 
-' All paths lead to the same result, different roads connect to the same destination. '
-' 天下一致而百虑，殊途而同归 '
+'''text
+All paths lead to the same result, different roads connect to the same destination. 
+'''
+'''text
+天下一致而百虑，殊途而同归 
+'''
 
 I should have done these 6 years ago.
